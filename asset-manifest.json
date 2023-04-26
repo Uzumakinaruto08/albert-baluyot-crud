@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/albert-baluyot-crud/static/css/main.512aae5d.css",
+    "main.js": "/albert-baluyot-crud/static/js/main.2b70deb5.js",
+    "static/js/787.d7a61667.chunk.js": "/albert-baluyot-crud/static/js/787.d7a61667.chunk.js",
+    "index.html": "/albert-baluyot-crud/index.html",
+    "main.512aae5d.css.map": "/albert-baluyot-crud/static/css/main.512aae5d.css.map",
+    "main.2b70deb5.js.map": "/albert-baluyot-crud/static/js/main.2b70deb5.js.map",
+    "787.d7a61667.chunk.js.map": "/albert-baluyot-crud/static/js/787.d7a61667.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.512aae5d.css",
+    "static/js/main.2b70deb5.js"
+  ]
+}
